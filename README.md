@@ -3,6 +3,8 @@ The objetive of this project was to develop a supervised learning classification
 
 A dashboard using databrick was created: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2076258431253745/4211955669654020/8071911021850060/latest.html
 
+Please read the pdf file to a detailed and organized development of the project. The jupyter notebook containes the code used to process the data and apply models. 
+
 This project was done during the Big Data course at University of Waterloo. The following persons were contributors to the project:
 - Horacio Lovo
 - Natalia Restrepo
